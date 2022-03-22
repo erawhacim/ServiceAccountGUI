@@ -1,7 +1,7 @@
 ﻿#--------------------------------------------
 # Declare Global Variables and Functions here
 #--------------------------------------------
-$global:FormVersion = "1.3.2"
+$global:FormVersion = "1.3.3"
 $global:Author = "Micah Ware"
 $global:AuthorEmail = "micahware@gmail.com"
 
